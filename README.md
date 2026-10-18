@@ -20,3 +20,5 @@ gnome-extensions enable sensors-tray@pavart
 ```
 
 Wtyczka uruchomi się w prawym, dolnym rogu ekranu.
+
+<img width="646" height="726" alt="Zrzut ekranu z 2026-10-18 11-27-18" src="https://github.com/user-attachments/assets/bbf4b0e1-d1fd-410e-9632-6927d41ab6eb" />
