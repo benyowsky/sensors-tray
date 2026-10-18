@@ -1,0 +1,6 @@
+{
+  "name": "Sensors Tray Monitor",
+  "description": "Wyświetla temperaturę CPU w trayu, a po kliknięciu pokazuje RPM i pełne dane z programu sensors.",
+  "uuid": "sensors-tray@pavart",
+  "shell-version": [ "45", "46", "47", "48" ]
+}
